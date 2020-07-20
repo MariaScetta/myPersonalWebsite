@@ -6,7 +6,7 @@
 body {
   background-image: radial-gradient(farthest-corner at 50px 50px,
       rgb(238, 189, 243) 50%, rgb(73, 255, 255) 100%); 
-   font-family: 'miopreferito','century gothic light', 'Geneva', sans-serif;
+   font-family: 'miopreferito';
    color:#4d4c4c;
 }
     
